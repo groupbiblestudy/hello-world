@@ -1,2 +1,2 @@
 # hello-world
-It all starts somewhere.
+"Sanctify them through thy truth; thy word is truth."--John 17:17
